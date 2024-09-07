@@ -6,7 +6,7 @@ Summarize any kind of article with just one click using the powerful OpenAI mode
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
-- TypeScript
+- JavaScript
 - Redux Toolkit
 - Tailwind CSS
 
